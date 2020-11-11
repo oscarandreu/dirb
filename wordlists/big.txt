@@ -10,6 +10,7 @@
 .bashrc
 .cvs
 .cvsignore
+.dockerignore
 .forward
 .history
 .htaccess
@@ -2398,7 +2399,7 @@ anuncios
 anunturi
 anupam
 anvils
-användare
+anvÃ¤ndare
 anwender
 any
 anymedia
@@ -6254,6 +6255,7 @@ doc
 doc_files
 docebo
 dock
+Dockerfile
 doclib
 docman
 docrepository
@@ -13331,6 +13333,8 @@ pack
 pack-classic-50
 pack-eco-100
 package
+package.json
+package-lock.json
 package3
 packaged
 packages
@@ -15012,6 +15016,7 @@ readings
 readme
 readme_files
 readme_var_de
+README.md
 ready
 reagan
 real
@@ -16069,7 +16074,7 @@ sec_id
 seccio
 seccion
 secciones
-secci�
+secció
 second
 second-love-nl3
 secondary
